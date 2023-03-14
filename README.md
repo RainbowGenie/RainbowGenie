@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;6+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer;8+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45">
   </a>
 </p>
 
@@ -65,6 +65,7 @@
 <br><br>
 
 ## Github Stats
+
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=IceDev528&show_icons=true&&include_all_commits=true&count_private=true&theme=light&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=IceDev528&langs_count=8&layout=compact&theme=light&include_all_commits=true&line_height=27">
@@ -77,14 +78,15 @@
 </details>
 
 ## Contacts
+
   <div align="center"> 
-   <a href="mailto:iceprince.L528@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
+   <a href="mailto:joseph.anello.jr1205@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="40" /></a>
   &nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/lionel-robin-427181230" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
+   <a href="https://www.linkedin.com/in/josephanello/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/linkedin.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/JScyn0BMIJ8S" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
+  <a href="https://join.skype.com/invite/zJj4lTZjtUHb" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/lionel528" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
+  <a href="https://t.me/incredibleGAT" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
   &nbsp;&nbsp;
  
 </div>
